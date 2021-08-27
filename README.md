@@ -16,7 +16,12 @@ This project does not have a license.
 ## Contributing
 If you wish to make contributions please submit them to kurt.weinerman@gmail.com before making changes.
 ## Tests
-To test run index.js in your terminal
+
+
+https://user-images.githubusercontent.com/85956994/131070345-3791630b-18c6-4968-8eab-314daeab4274.mov
+
+
+To test run node index.js in your terminal
 ## Questions
 GitHub: [kweinerman](https://github.com/kweinerman)
 Additional questions? Email me at kurt.weinerman@gmail.com
